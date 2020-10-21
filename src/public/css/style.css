@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+ .progress {
+    height: 20px;
+    width: 20%;
+    background: black;
+    border-radius: 10px;
+    border: solid lightblue;
+    position: relative;
+    left: 40%;
+ }
